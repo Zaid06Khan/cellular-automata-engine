@@ -45,7 +45,9 @@ streamlit run app.py
 
 ## Live demo
 
-[LIVE_DEMO_LINK]
+[Try the Cellular Automata Engine live](https://cellular-automata-engine-re7bnaxicljse67poxpjch.streamlit.app/)
+
+Note: the app may take about 30-60 seconds to wake up if it's been inactive, since Streamlit Community Cloud puts idle apps to sleep.
 
 ## Testing
 
